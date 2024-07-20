@@ -17,12 +17,21 @@
     font-weight: 600;
 }
 
+@font-face {
+    font-family: 'Figtree';
+    src: url('./assets/fonts/Figtree-VariableFont_wght.ttf') format('truetype');
+    font-weight: normal;
+}
+
 body{
+    margin: 0;
+    padding: 0;
     background-color: var(--colorBackground);
     height: 100vh;
     justify-content: center;
     align-items: center;
     font-family: "Figtree";
+    font-size: 15px;
 }
 
 .card, body, .author{
@@ -33,20 +42,19 @@ body{
 .card{
     flex-direction: column;
     width: 90%;
-    max-width: 290px;
+    max-width: 330px;
     background-color: var(--colorCard);
     border-radius: 15px;
     border: 1px solid var(--colorParagraph);
-    box-shadow: 6px 7px 0 0 var(--colorTitles);
+    box-shadow: 8px 9px 0 0 var(--colorTitles);
 }
 
 .card:hover{
     transform: scale(0.9);
     cursor: pointer;
-    cursor: black;
 }
 .card:active{
-    box-shadow: -6px -7px 0 0 var(--colorTitles);
+    box-shadow: -8px -9px 0 0 var(--colorTitles);
 }
 
 .card-content{
@@ -70,21 +78,21 @@ body{
         color: var(--colorTitles)
     }
     h1{
-        font-size: 18px;
+        font-size: 22px;
         font-weight: 800;
     }
     p{
         color: var(--colorParagraph);
         margin-top: 0;
-        line-height: 18px;
-        font-size: 13px;
+        line-height: 20px;
+        font-weight: normal;
     }
 }
 
 .author{
     align-items: center;
     img{
-        height: 40px;
+        height: 35px;
     }
     h3{
         color: var(--colorTitles);
