@@ -1,18 +1,26 @@
 # Frontend Mentor - Blog preview card solution
 
-This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+<div align="left">
+  <a href="https://www.linkedin.com/in/danae-lescano-salvatierra" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
+  </a>
+  <a href="https://lescano713.github.io/blog-preview-card/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Demo&label=&color=6A0DAD&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="demo badge"/>
+  </a>
+  <a href="https://www.frontendmentor.io/profile/Lescano713" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Frontend%Mentor&label=&color=ff1538&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="demo badge"/>
+  </a>
+</div>
 
 ## Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-- [Author](#author)
 
 
 ## Overview
@@ -27,12 +35,7 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot.jpg)
-
-
-### Links
-
-- Solution URL: [Solution]()
-- Live Site URL: [Live site](https://lescano713.github.io/blog-preview-card/)
+![](./screenshot/desktop.gif)
 
 ## My process
 
@@ -83,9 +86,4 @@ Leverage Advanced CSS Layouts: Experiment with CSS Grid for more complex and res
 Enhance User Interactions: Continue to improve interactive elements with animations and transitions for a more dynamic user experience.</p>
 
 
-## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Linkedin - [@yourusername](https://www.twitter.com/yourusername)
 
