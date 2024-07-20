@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/static/v1?message=Demo&label=&color=6A0DAD&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="demo badge"/>
   </a>
   <a href="https://www.frontendmentor.io/profile/Lescano713" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Frontend%Mentor&label=&color=ff1538&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="demo badge"/>
+    <img src="https://img.shields.io/static/v1?message=Frontend%20Mentor&label=&color=ff1538&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="demo badge"/>
   </a>
 </div>
 
@@ -34,7 +34,6 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
 ![](./screenshot/desktop.gif)
 
 ## My process
